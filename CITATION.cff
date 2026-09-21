@@ -8,3 +8,10 @@ version: 0.1.0
 date-released: 2026-09-22
 url: "https://github.com/AyB44/pps-phenoconversion"
 license: MIT
+preferred-citation:
+  type: article
+  title: "Research Priorities for Leveraging Pharmacogenomics-Guided Multi-Omic Precision Therapy"
+  authors:
+    - family-names: "Porrogi"
+      given-names: "Pálma"
+  year: 2026
