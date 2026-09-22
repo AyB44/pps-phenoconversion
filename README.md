@@ -1,6 +1,6 @@
 # pps-phenoconversion
 
-A Python reference implementation of the **Phenotype-Predictive Score (PPS)** framework, following the exact module structure and equations defined in *Supplementary Methods 2* of:
+A Python reference implementation of the **Phenotype-Predictive Score (PPS)** framework
 
 
 PPS is presented in the source manuscript as a **hypothesis-generating, not-yet-prospectively-validated modeling framework** for estimating a patient's time-indexed functional pharmacological capacity from germline pharmacogenomic and dynamic (inflammatory, xenobiotic, microbiome, transcriptomic, hepatic, renal) inputs. This repository implements the mathematics of that framework — it is **not** a validated clinical prediction tool, and should not be used to guide dosing decisions.
