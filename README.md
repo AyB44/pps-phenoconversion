@@ -20,7 +20,7 @@ import pps
 
 z = {"G1": -0.50, "IMM": -0.80}   # primary pharmacogene, immune-inflammatory
 pps.compute_pps(z)
-# -> 0.214...
+# -> 0.428...
 ```
 
 ## What's implemented
